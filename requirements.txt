@@ -1,0 +1,25 @@
+# Jigsaw Puzzle Solver - Requirements
+
+# Core dependencies
+numpy>=1.19.0
+opencv-python>=4.5.0
+scipy>=1.5.0
+pillow>=8.0.0
+tqdm>=4.50.0
+
+# Deep Learning
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+networkx>=2.5
+
+# Reinforcement Learning
+stable-baselines3>=1.0.0
+
+# Configuration
+PyYAML>=5.3
+
+# Optional: GPU support (uncomment if needed)
+# torch-cuda>=11.0  # Install CUDA-enabled PyTorch separately if needed
